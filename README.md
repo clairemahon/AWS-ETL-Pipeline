@@ -1,12 +1,12 @@
 # Data Quality Monitoring Tool
 Description: An AWS based tool that automatically monitors the quality of data flowing through ELT pipelines. It would check for missing values, inconsistencies, duplicates, or outliers and provide reports on data quality issues.
-Target Market: Data-driven organizations that rely heavily on accurate, clean data (e.g., marketing agencies, data scientists, business intelligence teams).
-Revenue Model: Subscription-based with different tiers for small and large enterprises.
-Key Features:
-Alerts for data quality issues.
-Integration with AWS services for easy monitoring of ELT pipeline health (e.g., CloudWatch).
-Pre-configured rules for common data quality issues.
 
+Target Market: Data-driven organizations that rely heavily on accurate, clean data (e.g., marketing agencies, data scientists, business intelligence teams).
+
+Key Features:
+Reports for data quality issues and monitoring improvements/declines over time.
+Integration with AWS services for easy monitoring of ELT pipeline health.
+Pre-configured rules for common data quality issues.
 
 
 Step-by-Step Implementation:
