@@ -10,13 +10,13 @@ import boto3
 from dotenv import load_dotenv
 
 # The folder where source files live
-DATA_FOLDER = "data-news-articles"
+DATA_FOLDER = "/Users/clairemahon/DS4300/AWS-ETL-Pipeline/data-company-environmental"
 # How frequently to upload a file, in seconds
 UPLOAD_INTERVAL = 3
 # Total number of uploads to perform
 NUM_UPLOADS = 4
 # The name of the s3 bucket you're uploading to
-S3_BUCKET_NAME = "ds4300-fontenot-project-bucket"
+S3_BUCKET_NAME = "my4300finals3bucketaccess"
 
 
 # Load the values from .env into dictionary
